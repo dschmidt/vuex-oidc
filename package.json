@@ -19,7 +19,7 @@
     "url": "git+https://github.com/perarnborg/vuex-oidc.git"
   },
   "main": "dist/vuex-oidc.cjs.js",
-  "module": "dist/vuex-oidc.esm.js",
+  "module": "src/main.js",
   "typings": "index.d.ts",
   "peerDependencies": {
     "oidc-client": ">= 1.6.1",
